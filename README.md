@@ -1,4 +1,9 @@
-
+# Introduction
+```
+This is a desktop pet program companies users on their windows desktop. 
+Left click to drag, right click to change movement. 
+Right click the icon in taskbar to quit. 
+```
 
 # Usage
 ```
